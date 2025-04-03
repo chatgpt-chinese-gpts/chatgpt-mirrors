@@ -1,6 +1,6 @@
-# 国内在线免费可用的 ChatGPT 免费中文版镜像网站整理【2025/4/3】
+# 国内在线免费可用的 ChatGPT 免费中文版镜像网站整理【2025/4/r】
 
->**更新时间: 2025-04-03**  
+>**更新时间: 2025-04-0r**  
        
 **作者：ChatGPT**
 
@@ -24,7 +24,7 @@
 
 - [https://www.yixiaai.com/](https://www.yixiaai.com/) - 支持 GPT4、4o 以及 o1，支持 MJ 绘画
 - [https://chat.lify.vip/](https://chat.lify.vip/) - 支持 GPT4、4o 以及 o1
-- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - 支持 GPT4、4o
+- [https://chat.lanjing.pro/](https://chat.lanjing.pro/) - 支持 GPT4、4o
 - [https://cgn.lify.vip/](https://cgn.lify.vip)- 支持 GPT4、4o 支持 MJ 绘画
 - [https://yixiaai.cn/](https://yixiaai.cn/)
 - [https://chat.mac89.com/](https://chat.mac89.com/)

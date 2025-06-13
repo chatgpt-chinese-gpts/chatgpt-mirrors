@@ -1,51 +1,67 @@
-# 国内在线免费可用的 ChatGPT 免费中文版镜像网站整理【2025/6/11】
+# 国内 ChatGPT-4中文版镜像网站整理（2025/06/14 更新）【镜像网站合集】                     
 
->**更新时间: 2025-06-11**     
-       
-**作者：ChatGPT**
+本站为了方便使用，我整理了一些国内可用的 [**ChatGPT 镜像网站**](https://chat.lanjingai.org)，都有优劣之处，大家可自选使用~
 
-本站为您整理了国内可直接在线访问且免费的 **ChatGPT 中文版镜像网站**，方便您在无需翻墙的情况下体验 ChatGPT 的强大功能。以下网站均为免费的网页版，可满足国内用户对 **ChatGPT**、**免费 ChatGPT**、**中文版 ChatGPT** 的需求。
+在国内**无需翻墙**，就能直接在线使用 [**ChatGPT镜像网站**](https://xsimplechat.com)~
 
----
+## 什么是 ChatGPT镜像网站？
 
-## 什么是 ChatGPT 镜像网站？
+[**ChatGPT镜像网站**](https://chat.lanjingai.org)（ChatGPT Mirror）是指将原始官网的内容复制并放置在另一服务器上的网站服务，因此用户在国内无需翻墙也可以使用。
 
-**ChatGPT 镜像网站**（ChatGPT Mirror）是指通过复制原始 **ChatGPT** 网站内容和功能所创建的备用网站。这些镜像站点的主要特点包括：  
+与官网相比，**ChatGPT镜像网站**更适合国内用户：
 
-- **访问便捷**：无需翻墙即可使用，与国内网络环境完全兼容。  
-- **功能完整**：提供与原站点相同或类似的 AI 服务，如 GPT-4 支持和 AI 绘画等。  
-- **高效稳定**：即使在官方站点不可用时，也能保持稳定访问体验。  
+- **无需翻墙**：直接在国内使用，无需代理工具。
+- **中文支持**：具备更流畅的中文对话能力，适合学习、办公和日常使用。
+- **功能全面**：支持 AI 绘画、AI 知识库、AI 思维导图、AI 文件、AI PPT 等实用功能，更符合国内用户需求。
 
 ---
 
-## 国内 ChatGPT 免费中文版镜像网站推荐
+## 国内推荐的 ChatGPT镜像网站
 
-以下是经过测试后推荐的国内 ChatGPT 中文版镜像网站：
-
-- [https://xsimplechat.com/](https://xsimplechat.com/) - 支持 GPT4、4o 以及 o1，支持 MJ 绘画
-- [https://chat.lify.vip/](https://chat.lify.vip/) - 支持 GPT4、4o 以及 o1
-- [https://chat.lanjingai.org/](https://chat.lanjingai.org/) - 支持 GPT4、4o
+- [https://xsimplechat.com/](https://xsimplechat.com/) - 于2023年3月上线，稳定运行，支持 GPT4、4.0 以及 3.5，支持 MJ 绘画。
+- [https://chat.lanjingai.org/](https://chat.lanjingai.org/) - 支持 GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用~
+- [https://chat.lify.vip/](https://chat.yixiaai.com/) - 运营近2年，支持 GPT4、4.0 以及 3.5，提供 AI文件、AI PPT、AI助手、AI插件功能、思维导图等。
+- [https://chat.lanjingai.org/](https://chat.lanjingai.org/) - 运营超过1年，支持 GPT4、4.0，支持AI绘画（Midjourney和Dall·E）。
+- [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - 支持 GPT4、4.0，使用简单便捷。
+- [https://lanjing.ai/](https://lanjing.pro/) - 支持 GPT4、4.0，支持 MJ 绘画。
 - [https://cgn.lify.vip/](https://cgn.lify.vip)- 支持 GPT4、4o 支持 MJ 绘画
 - [https://yixiaai.cn/](https://yixiaai.cn/)
 - [https://chat.mac89.com/](https://chat.mac89.com/)
 
 ---
 
-### 为什么选择这些镜像网站？
+## 国内自研大模型汇总
 
-- **免费使用**：无需额外付费，即可体验 ChatGPT 的强大功能。  
-- **国内直连**：优化了国内网络环境，访问无阻碍。  
-- **多样功能**：部分镜像站点支持附加功能，如 AI 绘画工具等。  
+- [https://yiyan.baidu.com/](https://yiyan.baidu.com/) - 文心一言，由百度出品。
+- [https://tongyi.aliyun.com/](https://tongyi.aliyun.com/) - 通义千问，由阿里出品。
+- [https://techday.sensetime.com/](https://techday.sensetime.com/) - 商量，由商汤科技出品。
+- [https://tiangong.kunlun.com/](https://tiangong.kunlun.com/) - 天工 AI 助手，天工大模型。
+- [https://xinghuo.xfyun.cn/](https://xinghuo.xfyun.cn/) - 讯飞星火认知大模型。
+- [https://moss.fastnlp.top/](https://moss.fastnlp.top/) - Moss，由复旦团队出品。
+- [https://www.so.com/zt/invite.html](https://www.so.com/zt/invite.html) - 360 智脑，由360出品。
+- [https://github.com/THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B，由清华大学唐杰团队开发。
+
+## 国外其它大模型汇总
+
+- [https://talk.truthgpt.one/](https://talk.truthgpt.one/) - 由马斯克出品，无需翻墙，无需注册账号，直接使用。
+
+## AI工具集导航网站
+
+- [https://yixiaai.cn/](https://yixiaai.cn/) - 提供各种AI工具的导航网站。
+- [https://c.runoob.com/ai/](https://c.runoob.com/ai/) - 菜鸟工具。
 
 ---
 
-## 使用提示
+## 注意事项
 
-- **登录方式**：多数镜像站支持国内手机号或扫码登录，无需国际手机号。  
-- **隐私与安全**：建议在使用过程中注意个人信息保护，不要输入敏感数据。  
-- **浏览器兼容性**：推荐使用最新版的主流浏览器（如 Chrome、Edge 等）以获得最佳体验。
+- 请定期检查链接的有效性及其安全性。
+- 遵守相关法律法规，合法合规地使用镜像网站。
+- 如果发现上述链接存在安全问题或失效，请务必报告给我们，我们会及时更新。
 
 ---
 
-更多相关信息与更新将持续发布。如果您发现了更好的镜像站点，欢迎留言分享！  
-**感谢支持，祝您体验愉快！**
+## 更新日志
+
+我们会持续更新最实用的镜像网站，并记录所有的修改和更新，以便用户了解最新信息和变化。
+
+---
